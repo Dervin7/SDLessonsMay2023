@@ -1,0 +1,30 @@
+.box {
+    width:300px;
+    height:300px;
+    border:2px solid black;
+    padding: 1rem;
+    margin: 1rem 8px 5px 4px;
+    border-radius: 1rem;
+}
+
+.red{
+    background-color: red;
+    border-radius: 100%;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.green{
+    background-color: green;
+}
+
+.title{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
